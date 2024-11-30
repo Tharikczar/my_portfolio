@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-    <h1> building my portfolio</h1>
+      <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
     </>
   )
 }
